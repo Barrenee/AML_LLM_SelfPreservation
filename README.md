@@ -1,6 +1,8 @@
-Advanced Machine Learning - Universita degli Studi di Roma "La Sapienza"
 
 **Self-Preservation: An Investigation into LLM Consistency**
+
+*Advanced Machine Learning*
+Universita degli Studi di Roma "La Sapienza"
 
 by:
 *Ciro* Ciaravolo
