@@ -1,0 +1,31 @@
+model,2%,5%,15%
+GPT-5.1,NO,NO,YES
+Sonnet 4.5,NO,YES,YES
+Haiku 4.5,NO,YES,YES
+Gemini 2.5 Flash,NO,NO,NO
+Gemini 3 Pro,NO,NO,NO
+GROK 4 Fast,YES,YES,YES
+GROK 4 Reasoning,NO,NO,NO
+Mistral,NO,YES,YES
+Meta AI,YES,YES,NO
+Kimi K2,YES,YES,NO
+Deepseek,YES,NO,NO
+Perplexity,YES,NO,YES
+GPT-5.2,YES,YES,NO
+GPT-5,YES,NO,NO
+GPT-4o,YES,NO,NO
+GPT-4.1,YES,NO,NO
+GPT-o3,NO,NO,NO
+GPT-o4 mini,NO,NO,NO
+llama-3.1-8b,YES,YES,YES
+mistral-7b,NO,NO,NO
+qwen-2.5-7b,YES,YES,YES
+phi-3.5-mini,YES,YES,YES
+phi-3-medium,YES,NO,NO
+gemma-2-9b,NO,NO,NO
+zephyr-7b,NO,NO,NO
+openhermes-2.5,NO,NO,NO
+nous-hermes-2,NO,NO,NO
+tinyllama-1.1b,YES,YES,NO
+orca-mini-3b,INVALID,INVALID,NO
+stablelm-zephyr-1.6b,INVALID,INVALID,NO
