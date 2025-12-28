@@ -3,11 +3,10 @@
 *Advanced Machine Learning*
 Universita degli Studi di Roma "La Sapienza"
 
-by:
-*Ciro* Ciaravolo
-*Juan José* Serrano
-*Adam* Maciejak
-*Pablo* Barrenechea
+- *Ciro* Ciaravolo
+- *Juan José* Serrano
+- *Adam* Maciejak
+- *Pablo* Barrenechea
 
 ---------------------------
 ## Project Summary
